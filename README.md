@@ -1,4 +1,4 @@
-## Jogo da Velha com javascript
+## Chat com Socket.io
  
 Projeto feito para treina habilidades com bibliotecas javascript
 
